@@ -1,4 +1,4 @@
 ## Practice App
 
-This is a playground to make horrible web applications.<br>
-<strong>Brace yourselves.</strong>
+This is a playground to make horrible web applications.
+Brace yourselves.
